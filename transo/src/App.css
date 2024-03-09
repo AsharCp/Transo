@@ -44,3 +44,10 @@ textarea{
   flex-direction: column;
   gap: 3px;
 }
+#dropmenu{
+  background-color: black;
+  color: white;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 6px;
+}
